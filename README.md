@@ -24,7 +24,7 @@
 
 * 🎓 Computer Science Undergrad at the University of Debrecen (Stipendium Hungaricum Scholar)
 * 🔬 Research Focus: Empirical Software Engineering, Dependency Graph Analysis, Deep Learning (Computer Vision), and Algorithmic Conflict Detection
-* 💼 Experience: Former Software Research Intern at Nicolaus Copernicus University (TSSP) and Data Analyst at Code lixi
+* 💼 Experience: Former Software Research Intern at Nicolaus Copernicus University (TSSP) 
 
 
 ---
