@@ -84,6 +84,18 @@ Frameworks, Cloud and DevOps <br/>
       </p>
     </td>
     <td width="50%" valign="top">
+      <h4 align="center">🦷 <a href="https://github.com/Aizaanjum5/caries-severity-grading-panoramic-xray">Dental Caries Deep Learning</a></h4>
+      <p align="center"><i>Computer Vision Medical Research</i></p>
+      <p>Deep learning pipeline for caries segmentation using nnU-Net and severity classification using ResNet50 on panoramic dental X-rays.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Deep_Learning-F472B6?style=flat-square" />
+        <img src="https://img.shields.io/badge/PyTorch-C084FC?style=flat-square&logo=pytorch&logoColor=white" />
+        <img src="https://img.shields.io/badge/Computer_Vision-818CF8?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h4 align="center">⚛️ <a href="https://github.com/Aizaanjum5/cern-physics-ml">CERN Physics ML Pipeline</a></h4>
       <p align="center"><i>High-Energy Particle Regression</i></p>
       <p>End-to-end machine learning regression pipeline utilizing CERN CMS Open Data to predict invariant particle mass from multi-dimensional collision events.</p>
@@ -93,9 +105,7 @@ Frameworks, Cloud and DevOps <br/>
         <img src="https://img.shields.io/badge/NumPy-818CF8?style=flat-square&logo=numpy&logoColor=white" />
       </p>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top" colspan="2">
+    <td width="50%" valign="top">
       <h4 align="center">💬 <a href="https://github.com/Aizaanjum5/sentiment-analyzer">Sentiment Analyzer and Dashboard</a></h4>
       <p align="center"><i>Real-Time NLP Web App</i></p>
       <p>Interactive sentiment classification application built with custom tokenization, TF-IDF vectorization pipelines, and live feedback trend visualization.</p>
@@ -113,10 +123,14 @@ Frameworks, Cloud and DevOps <br/>
 ### 📌 Pinned GitHub Repo Cards
 
 <div align="center">
-  <a href="https://github.com/Aizaanjum5/npm-bug-propagation">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aizaanjum5&repo=npm-bug-propagation&theme=rose&border_radius=12" />
-  </a>
-  <a href="https://github.com/Aizaanjum5/dental-caries-detection">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aizaanjum5&repo=dental-caries-detection&theme=rose&border_radius=12" />
-  </a>
+  <table>
+    <tr>
+      <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=iamadeel09&repo=brand_visibility&theme=rose&border_radius=12" /></td>
+      <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=Aizaanjum5&repo=caries-severity-grading-panoramic-xray&theme=rose&border_radius=12" /></td>
+    </tr>
+    <tr>
+      <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=Aizaanjum5&repo=cern-physics-ml&theme=rose&border_radius=12" /></td>
+      <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=Aizaanjum5&repo=sentiment-analyzer&theme=rose&border_radius=12" /></td>
+    </tr>
+  </table>
 </div>
