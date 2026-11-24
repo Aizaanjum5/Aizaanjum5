@@ -23,17 +23,17 @@
 
 ### 🌸 About Me
 
-- 🎓 **Computer Science Undergrad** at the **University of Debrecen** *(Stipendium Hungaricum Scholar)*[cite: 1]
-- 🔬 **Research Focus:** Empirical Software Engineering, Dependency Graph Analysis, Deep Learning (Computer Vision), and Algorithmic Conflict Detection[cite: 1]
+- 🎓 **Computer Science Undergrad** at the **University of Debrecen** *(Stipendium Hungaricum Scholar)*
+- 🔬 **Research Focus:** Empirical Software Engineering, Dependency Graph Analysis, Deep Learning (Computer Vision), and Algorithmic Conflict Detection
 - 💼 **Experience:** Former **Software Research Intern** at Nicolaus Copernicus University (TSSP).
 
 ---
 
 ### 🔬 Research & Publications
 
-- 🩺 **Algorithmic Detection of Dependency Conflicts in Medical Workflows** *(Talent UD / DETEP)*  Designing graph-based algorithmic frameworks to resolve constraint violations in multi-step medical treatment protocols[cite: 1].
-- 🦷 **Deep Learning for Early Detection of Dental Caries**  Engineering CNN architectures and augmentation pipelines for diagnostic medical imagery[cite: 1].
-- 📦 **How Bug Fixes Propagate in the NPM Ecosystem** *(Co-Author, Under Review)*  Mined open source repositories to evaluate dependency graphs and fix latency across downstream packages[cite: 1].
+- 🩺 **Algorithmic Detection of Dependency Conflicts in Medical Workflows** *(Talent UD / DETEP)*  Designing graph-based algorithmic frameworks to resolve constraint violations in multi-step medical treatment protocols.
+- 🦷 **Deep Learning for Early Detection of Dental Caries**  Engineering CNN architectures and augmentation pipelines for diagnostic medical imagery.
+- 📦 **How Bug Fixes Propagate in the NPM Ecosystem** *(Co-Author, Under Review)*  Mined open source repositories to evaluate dependency graphs and fix latency across downstream packages.
 
 ---
 
@@ -75,9 +75,9 @@
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | 🌍 **[Geo Visibility (Hackathon Collab)](#)** | Collaborative hackathon build focused on geospatial visibility & civic-tech insights. | `Geospatial` `Full-Stack` `Collab` |
-| ⚛️ **[CERN Physics ML Pipeline](#)** | End-to-end regression pipeline predicting invariant particle mass from CERN CMS Open Data[cite: 2]. | `Python` `Scikit-learn` `Pandas` `NumPy`[cite: 2] |
-| 💬 **[Sentiment Analyzer & Dashboard](#)** | Real time customer feedback classification web app using TF IDF & custom NLP pipelines[cite: 1, 2]. | `Python` `Scikit-learn` `Streamlit` `NLP`[cite: 2] |
-| ☕ **[Café Finder Web Application](#)** | Full stack city venue search platform with modular backend endpoints and responsive filtering[cite: 2]. | `Python` `Flask` `SQL` `JavaScript`[cite: 2] |
+| ⚛️ **[CERN Physics ML Pipeline](#)** | End-to-end regression pipeline predicting invariant particle mass from CERN CMS Open Data. | `Python` `Scikit-learn` `Pandas` `NumPy` |
+| 💬 **[Sentiment Analyzer & Dashboard](#)** | Real time customer feedback classification web app using TF IDF & custom NLP pipelines. | `Python` `Scikit-learn` `Streamlit` `NLP` |
+| ☕ **[Café Finder Web Application](#)** | Full stack city venue search platform with modular backend endpoints and responsive filtering. | `Python` `Flask` `SQL` `JavaScript`|
 
 ---
 
