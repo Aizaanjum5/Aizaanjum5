@@ -40,13 +40,15 @@
 
 <div align="center">
 
-Languages <br/>
+Programming Languages <br/>
 <img src="https://img.shields.io/badge/Python-F472B6?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/SQL-E879F9?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-FBBF24?style=for-the-badge&logo=javascript&logoColor=white" />
 <img src="https://img.shields.io/badge/TypeScript-818CF8?style=for-the-badge&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/HTML5-FB7185?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-A78BFA?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 
 <br/><br/>
 
@@ -54,6 +56,7 @@ AI, Machine Learning and Data <br/>
 <img src="https://img.shields.io/badge/Scikit_Learn-F472B6?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 <img src="https://img.shields.io/badge/Pandas-C084FC?style=for-the-badge&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/NumPy-818CF8?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
 <img src="https://img.shields.io/badge/NLP_and_Transformers-34D399?style=for-the-badge&logo=nvidia&logoColor=white" />
 
 <br/><br/>
@@ -96,7 +99,7 @@ Frameworks, Cloud and DevOps <br/>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4 align="center">⚛️ <a href="https://github.com/Aizaanjum5/cern-physics-ml">CERN Physics ML Pipeline</a></h4>
+      <h4 align="center">⚛️ <a href="https://github.com/Aizaanjum5/CERN-physics-ml">CERN Physics ML Pipeline</a></h4>
       <p align="center"><i>High-Energy Particle Regression</i></p>
       <p>End-to-end machine learning regression pipeline utilizing CERN CMS Open Data to predict invariant particle mass from multi-dimensional collision events.</p>
       <p align="center">
@@ -106,9 +109,9 @@ Frameworks, Cloud and DevOps <br/>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4 align="center">💬 <a href="https://github.com/Aizaanjum5/sentiment-analyzer">Sentiment Analyzer and Dashboard</a></h4>
+      <h4 align="center">💬 <a href="https://github.com/Aizaanjum5/Sentiment-Analyzer-NLP">University Review Sentiment Analyzer</a></h4>
       <p align="center"><i>Real-Time NLP Web App</i></p>
-      <p>Interactive sentiment classification application built with custom tokenization, TF-IDF vectorization pipelines, and live feedback trend visualization.</p>
+      <p>Interactive sentiment classification application comparing traditional ML models and an LSTM-based deep learning architecture on review data.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/NLP-34D399?style=flat-square" />
         <img src="https://img.shields.io/badge/Streamlit-FB7185?style=flat-square&logo=streamlit&logoColor=white" />
@@ -129,8 +132,8 @@ Frameworks, Cloud and DevOps <br/>
       <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=Aizaanjum5&repo=caries-severity-grading-panoramic-xray&theme=rose&border_radius=12" /></td>
     </tr>
     <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=Aizaanjum5&repo=cern-physics-ml&theme=rose&border_radius=12" /></td>
-      <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=Aizaanjum5&repo=sentiment-analyzer&theme=rose&border_radius=12" /></td>
+      <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=Aizaanjum5&repo=CERN-physics-ml&theme=rose&border_radius=12" /></td>
+      <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=Aizaanjum5&repo=Sentiment-Analyzer-NLP&theme=rose&border_radius=12" /></td>
     </tr>
   </table>
 </div>
