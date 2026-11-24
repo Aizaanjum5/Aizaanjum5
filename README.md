@@ -24,8 +24,7 @@
 
 * 🎓 Computer Science Undergrad at the University of Debrecen (Stipendium Hungaricum Scholar)
 * 🔬 Research Focus: Empirical Software Engineering, Dependency Graph Analysis, Deep Learning (Computer Vision), and Algorithmic Conflict Detection
-* 💼 Experience: Former Software Research Intern at Nicolaus Copernicus University (TSSP) 
-
+* 💼 Experience: Former Software Research Intern at Nicolaus Copernicus University (TSSP)
 
 ---
 
@@ -114,10 +113,10 @@ Frameworks, Cloud and DevOps <br/>
 ### 📌 Pinned GitHub Repo Cards
 
 <div align="center">
-  <a href="https://github.com/iamadeel09/brand_visibility">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=iamadeel09&repo=brand_visibility&theme=rose&border_radius=12" />
+  <a href="https://github.com/Aizaanjum5/npm-bug-propagation">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aizaanjum5&repo=npm-bug-propagation&theme=rose&border_radius=12" />
   </a>
-  <a href="https://github.com/Aizaanjum5/cern-physics-ml">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aizaanjum5&repo=cern-physics-ml&theme=rose&border_radius=12" />
+  <a href="https://github.com/Aizaanjum5/dental-caries-detection">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aizaanjum5&repo=dental-caries-detection&theme=rose&border_radius=12" />
   </a>
 </div>
