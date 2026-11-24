@@ -2,7 +2,7 @@
   
   <!-- Cute Pastel Typing Banner -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=26&pause=1000&color=F472B6&center=true&vCenter=true&width=650&lines=hi+there%2C+i'm+aiza+anjum+%E2%9C%A8;cs+student+%40+university+of+debrecen+%F0%9F%8E%93;ml+%26+software+engineering+researcher+%F0%9F%94%AC;building+cute+%26+impactful+tech+%F0%9F%92%BB" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=25&pause=1000&color=F472B6&center=true&vCenter=true&width=800&lines=hey%2C+i'm+aiza+%F0%9F%8C%B7;aspiring+software+engineer+%F0%9F%92%BB;ai+%26+ml+researcher+%F0%9F%A7%A0;turning+ideas+into+code+%E2%9C%A8" alt="Typing SVG" />
   </a>
 
   <p>
@@ -12,7 +12,7 @@
     <a href="www.linkedin.com/in/aiza-anjum">
       <img src="https://img.shields.io/badge/LinkedIn-C084FC?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
-    <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=f472b6&style=for-the-badge" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=Aizaanjum5&label=Profile%20Views&color=f472b6&style=for-the-badge" alt="Profile Views" />
   </p>
 
   <p><i>"turning coffee, datasets, and curiosity into intelligent systems"</i> 🌷✨</p>
